@@ -85,7 +85,7 @@
   <ItemGroup>
     <ProjectReference Include="..\GBank\GBank.csproj">
       <Project>{20BF4546-4797-4889-A0C8-6B6CC0BE80ED}</Project>
-      <Name>GBank</Name>
+      <Name>Core</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

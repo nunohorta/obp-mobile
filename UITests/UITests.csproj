@@ -36,13 +36,13 @@
   <ItemGroup>
     <ProjectReference Include="..\iOS\GBank.iOS.csproj">
       <Project>{2603DA37-5F51-4F5C-B8E4-1827AF908392}</Project>
-      <Name>GBank.iOS</Name>
+      <Name>iOS</Name>
       <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\Droid\GBank.Droid.csproj">
       <Project>{CB2763AF-F3E6-4C52-9A08-33D2D3FA964E}</Project>
-      <Name>GBank.Droid</Name>
+      <Name>Droid</Name>
       <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
       <Private>False</Private>
     </ProjectReference>
