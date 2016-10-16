@@ -21,7 +21,7 @@ namespace GBank
 			var isValid = AreCredentialsCorrect(user);
 			if (isValid)
 			{
-				Device.BeginInvokeOnMainThread(() => Application.Current.MainPage = new NavigationPage(new MainPage()));
+				Navigation.PushModalAsync(new AuthenticationPage());
 			}
 			else {
 				messageLabel.Text = "Login failed";

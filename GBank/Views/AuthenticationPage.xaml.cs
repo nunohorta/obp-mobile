@@ -5,9 +5,9 @@ using Xamarin.Forms;
 
 namespace GBank
 {
-	public partial class MainPage : ContentPage
+	public partial class AuthenticationPage : ContentPage
 	{
-		public MainPage()
+		public AuthenticationPage()
 		{
 			InitializeComponent();
 		}
