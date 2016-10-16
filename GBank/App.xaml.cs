@@ -8,7 +8,7 @@ namespace GBank
 		{
 			InitializeComponent();
 
-			MainPage = new GBankPage();
+			MainPage = new LoginPage();
 		}
 
 		protected override void OnStart()
