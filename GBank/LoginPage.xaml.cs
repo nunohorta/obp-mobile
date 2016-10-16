@@ -10,12 +10,7 @@ namespace GBank
 			InitializeComponent();
 		}
 
-		async void OnSignUpButtonClicked(object sender, EventArgs e)
-		{
-			await Navigation.PushAsync(new GBankPage());
-		}
-
-		async void OnLoginButtonClicked(object sender, EventArgs e)
+		void OnLoginButtonClicked(object sender, EventArgs e)
 		{
 			var user = new User
 			{
@@ -26,9 +21,7 @@ namespace GBank
 			var isValid = AreCredentialsCorrect(user);
 			if (isValid)
 			{
-				//App.IsUserLoggedIn = true;
-				//Navigation.InsertPageBefore(new MainPage(), this);
-				//await Navigation.PopAsync();
+				Device.BeginInvokeOnMainThread(() => Application.Current.MainPage = new NavigationPage(new MainPage()));
 			}
 			else {
 				messageLabel.Text = "Login failed";
