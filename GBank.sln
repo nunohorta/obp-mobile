@@ -1,13 +1,13 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBank", "GBank\GBank.csproj", "{20BF4546-4797-4889-A0C8-6B6CC0BE80ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "GBank\Core.csproj", "{20BF4546-4797-4889-A0C8-6B6CC0BE80ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBank.iOS", "iOS\GBank.iOS.csproj", "{2603DA37-5F51-4F5C-B8E4-1827AF908392}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOS", "iOS\iOS.csproj", "{2603DA37-5F51-4F5C-B8E4-1827AF908392}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBank.Droid", "Droid\GBank.Droid.csproj", "{CB2763AF-F3E6-4C52-9A08-33D2D3FA964E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Droid", "Droid\Droid.csproj", "{CB2763AF-F3E6-4C52-9A08-33D2D3FA964E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBank.UITests", "UITests\GBank.UITests.csproj", "{6ED4F246-6877-4330-BFFE-8702C8AC3DA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITests", "UITests\UITests.csproj", "{6ED4F246-6877-4330-BFFE-8702C8AC3DA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
