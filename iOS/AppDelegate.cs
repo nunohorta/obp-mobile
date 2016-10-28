@@ -1,27 +1,33 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿using MvvmCross.Core.ViewModels;
+using MvvmCross.iOS.Platform;
+using MvvmCross.Platform;
 using Foundation;
 using UIKit;
 
-namespace GBank.iOS
+namespace iOS
 {
 	[Register("AppDelegate")]
-	public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate
+	public partial class AppDelegate : MvxApplicationDelegate
 	{
+		public override UIWindow Window
+		{
+			get;
+			set;
+		}
+
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options)
 		{
-			global::Xamarin.Forms.Forms.Init();
+			Window = new UIWindow(UIScreen.MainScreen.Bounds);
 
-			// Code for starting up the Xamarin Test Cloud Agent
-#if ENABLE_TEST_CLOUD
-			Xamarin.Calabash.Start();
-#endif
+			var setup = new Setup(this, Window);
+			setup.Initialize();
 
-			LoadApplication(new App());
+			var startup = Mvx.Resolve<IMvxAppStart>();
+			startup.Start();
 
-			return base.FinishedLaunching(app, options);
+			Window.MakeKeyAndVisible();
+
+			return true;
 		}
 	}
 }
