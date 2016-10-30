@@ -11,7 +11,14 @@ namespace Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterAppStart<ViewModels.FirstViewModel>();
+            // Construct custom application start object
+            Mvx.ConstructAndRegisterSingleton<IMvxAppStart, AppStart>();
+
+            // request a reference to the constructed appstart object 
+            var appStart = Mvx.Resolve<IMvxAppStart>();
+
+            // register the appstart object
+            RegisterAppStart(appStart);
         }
     }
 }
