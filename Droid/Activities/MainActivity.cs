@@ -6,11 +6,17 @@ using Android.Views;
 using Android.Support.V4.View;
 using Android.Views.InputMethods;
 using Core.ViewModels;
+using Android.Content.PM;
 
 namespace Droid
 {
-    [Activity(Label = "Droid", MainLauncher = true, Icon = "@mipmap/icon")]
-    public class MainActivity : MvxCachingFragmentCompatActivity<MainViewModel>
+	[Activity(
+		Label = "Main Activity",
+		Theme = "@style/Base.AppTheme",
+		LaunchMode = LaunchMode.SingleTop,
+		Name = "droid.activities.MainActivity"
+	)]    
+	public class MainActivity : MvxCachingFragmentCompatActivity<MainViewModel>
     {
         public DrawerLayout DrawerLayout;
 

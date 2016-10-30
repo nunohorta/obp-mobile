@@ -8,7 +8,7 @@ namespace Core.ViewModels
         public void ShowMenu()
         {
             ShowViewModel<HomeViewModel>();
-            ShowViewModel<MenuViewModel>();
+            //ShowViewModel<MenuViewModel>();
         }
 
         public void ShowHome()
