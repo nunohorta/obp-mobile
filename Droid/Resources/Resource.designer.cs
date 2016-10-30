@@ -1628,6 +1628,44 @@ namespace Droid
 			global::MvvmCross.Droid.Support.Design.Resource.Styleable.ViewStubCompat_android_id = global::Droid.Resource.Styleable.ViewStubCompat_android_id;
 			global::MvvmCross.Droid.Support.Design.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
 			global::MvvmCross.Droid.Support.Design.Resource.Styleable.ViewStubCompat_android_layout = global::Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.MvxBind = global::Droid.Resource.Attribute.MvxBind;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.MvxDropDownItemTemplate = global::Droid.Resource.Attribute.MvxDropDownItemTemplate;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.MvxGroupItemTemplate = global::Droid.Resource.Attribute.MvxGroupItemTemplate;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.MvxItemTemplate = global::Droid.Resource.Attribute.MvxItemTemplate;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.MvxLang = global::Droid.Resource.Attribute.MvxLang;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.MvxSource = global::Droid.Resource.Attribute.MvxSource;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.MvxTemplate = global::Droid.Resource.Attribute.MvxTemplate;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.MvxTemplateSelector = global::Droid.Resource.Attribute.MvxTemplateSelector;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.layoutManager = global::Droid.Resource.Attribute.layoutManager;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.reverseLayout = global::Droid.Resource.Attribute.reverseLayout;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.spanCount = global::Droid.Resource.Attribute.spanCount;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Attribute.stackFromEnd = global::Droid.Resource.Attribute.stackFromEnd;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Id.MvvmCrossTagId = global::Droid.Resource.Id.MvvmCrossTagId;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Id.MvxBindingTagUnique = global::Droid.Resource.Id.MvxBindingTagUnique;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Id.item_touch_helper_previous_elevation = global::Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxBinding = global::Droid.Resource.Styleable.MvxBinding;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxBinding_MvxBind = global::Droid.Resource.Styleable.MvxBinding_MvxBind;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxBinding_MvxLang = global::Droid.Resource.Styleable.MvxBinding_MvxLang;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxControl = global::Droid.Resource.Styleable.MvxControl;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxControl_MvxTemplate = global::Droid.Resource.Styleable.MvxControl_MvxTemplate;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxExpandableListView = global::Droid.Resource.Styleable.MvxExpandableListView;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxExpandableListView_MvxGroupItemTemplate = global::Droid.Resource.Styleable.MvxExpandableListView_MvxGroupItemTemplate;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxImageView = global::Droid.Resource.Styleable.MvxImageView;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxImageView_MvxSource = global::Droid.Resource.Styleable.MvxImageView_MvxSource;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxListView = global::Droid.Resource.Styleable.MvxListView;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxListView_MvxDropDownItemTemplate = global::Droid.Resource.Styleable.MvxListView_MvxDropDownItemTemplate;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxListView_MvxItemTemplate = global::Droid.Resource.Styleable.MvxListView_MvxItemTemplate;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxRecyclerView = global::Droid.Resource.Styleable.MvxRecyclerView;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.MvxRecyclerView_MvxTemplateSelector = global::Droid.Resource.Styleable.MvxRecyclerView_MvxTemplateSelector;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.RecyclerView = global::Droid.Resource.Styleable.RecyclerView;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.RecyclerView_android_orientation = global::Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.RecyclerView_layoutManager = global::Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.RecyclerView_reverseLayout = global::Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.RecyclerView_spanCount = global::Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::MvvmCross.Droid.Support.V7.RecyclerView.Resource.Styleable.RecyclerView_stackFromEnd = global::Droid.Resource.Styleable.RecyclerView_stackFromEnd;
 			global::PCLCrypto.Resource.String.ApplicationName = global::Droid.Resource.String.ApplicationName;
 			global::PCLCrypto.Resource.String.Hello = global::Droid.Resource.String.Hello;
 		}
@@ -1696,26 +1734,29 @@ namespace Droid
 		public partial class Attribute
 		{
 			
-			// aapt resource value: 0x7f01011a
-			public const int MvxBind = 2130772250;
-			
-			// aapt resource value: 0x7f01011e
-			public const int MvxDropDownItemTemplate = 2130772254;
+			// aapt resource value: 0x7f01011b
+			public const int MvxBind = 2130772251;
 			
 			// aapt resource value: 0x7f01011f
-			public const int MvxGroupItemTemplate = 2130772255;
-			
-			// aapt resource value: 0x7f01011d
-			public const int MvxItemTemplate = 2130772253;
-			
-			// aapt resource value: 0x7f01011b
-			public const int MvxLang = 2130772251;
+			public const int MvxDropDownItemTemplate = 2130772255;
 			
 			// aapt resource value: 0x7f010120
-			public const int MvxSource = 2130772256;
+			public const int MvxGroupItemTemplate = 2130772256;
+			
+			// aapt resource value: 0x7f01011e
+			public const int MvxItemTemplate = 2130772254;
 			
 			// aapt resource value: 0x7f01011c
-			public const int MvxTemplate = 2130772252;
+			public const int MvxLang = 2130772252;
+			
+			// aapt resource value: 0x7f010121
+			public const int MvxSource = 2130772257;
+			
+			// aapt resource value: 0x7f01011d
+			public const int MvxTemplate = 2130772253;
+			
+			// aapt resource value: 0x7f01011a
+			public const int MvxTemplateSelector = 2130772250;
 			
 			// aapt resource value: 0x7f01003f
 			public const int actionBarDivider = 2130772031;
@@ -3456,8 +3497,8 @@ namespace Droid
 			// aapt resource value: 0x7f07000c
 			public const int MvxBindingTagUnique = 2131165196;
 			
-			// aapt resource value: 0x7f070074
-			public const int action0 = 2131165300;
+			// aapt resource value: 0x7f070078
+			public const int action0 = 2131165304;
 			
 			// aapt resource value: 0x7f07005c
 			public const int action_bar = 2131165276;
@@ -3483,8 +3524,8 @@ namespace Droid
 			// aapt resource value: 0x7f07005d
 			public const int action_context_bar = 2131165277;
 			
-			// aapt resource value: 0x7f070078
-			public const int action_divider = 2131165304;
+			// aapt resource value: 0x7f07007c
+			public const int action_divider = 2131165308;
 			
 			// aapt resource value: 0x7f070003
 			public const int action_menu_divider = 2131165187;
@@ -3519,8 +3560,8 @@ namespace Droid
 			// aapt resource value: 0x7f070046
 			public const int buttonPanel = 2131165254;
 			
-			// aapt resource value: 0x7f070075
-			public const int cancel_action = 2131165301;
+			// aapt resource value: 0x7f070079
+			public const int cancel_action = 2131165305;
 			
 			// aapt resource value: 0x7f07002d
 			public const int center = 2131165229;
@@ -3534,8 +3575,8 @@ namespace Droid
 			// aapt resource value: 0x7f070054
 			public const int checkbox = 2131165268;
 			
-			// aapt resource value: 0x7f07007b
-			public const int chronometer = 2131165307;
+			// aapt resource value: 0x7f07007f
+			public const int chronometer = 2131165311;
 			
 			// aapt resource value: 0x7f070035
 			public const int clip_horizontal = 2131165237;
@@ -3549,6 +3590,9 @@ namespace Droid
 			// aapt resource value: 0x7f07004c
 			public const int contentPanel = 2131165260;
 			
+			// aapt resource value: 0x7f07006d
+			public const int content_frame = 2131165293;
+			
 			// aapt resource value: 0x7f070052
 			public const int custom = 2131165266;
 			
@@ -3561,23 +3605,26 @@ namespace Droid
 			// aapt resource value: 0x7f070042
 			public const int default_activity_button = 2131165250;
 			
-			// aapt resource value: 0x7f07006c
-			public const int design_bottom_sheet = 2131165292;
-			
-			// aapt resource value: 0x7f070073
-			public const int design_menu_item_action_area = 2131165299;
-			
-			// aapt resource value: 0x7f070072
-			public const int design_menu_item_action_area_stub = 2131165298;
-			
-			// aapt resource value: 0x7f070071
-			public const int design_menu_item_text = 2131165297;
-			
 			// aapt resource value: 0x7f070070
-			public const int design_navigation_view = 2131165296;
+			public const int design_bottom_sheet = 2131165296;
+			
+			// aapt resource value: 0x7f070077
+			public const int design_menu_item_action_area = 2131165303;
+			
+			// aapt resource value: 0x7f070076
+			public const int design_menu_item_action_area_stub = 2131165302;
+			
+			// aapt resource value: 0x7f070075
+			public const int design_menu_item_text = 2131165301;
+			
+			// aapt resource value: 0x7f070074
+			public const int design_navigation_view = 2131165300;
 			
 			// aapt resource value: 0x7f070010
 			public const int disableHome = 2131165200;
+			
+			// aapt resource value: 0x7f07006b
+			public const int drawer_layout = 2131165291;
 			
 			// aapt resource value: 0x7f07005e
 			public const int edit_query = 2131165278;
@@ -3585,8 +3632,8 @@ namespace Droid
 			// aapt resource value: 0x7f07001e
 			public const int end = 2131165214;
 			
-			// aapt resource value: 0x7f070080
-			public const int end_padder = 2131165312;
+			// aapt resource value: 0x7f070084
+			public const int end_padder = 2131165316;
 			
 			// aapt resource value: 0x7f070025
 			public const int enterAlways = 2131165221;
@@ -3630,8 +3677,8 @@ namespace Droid
 			// aapt resource value: 0x7f070041
 			public const int image = 2131165249;
 			
-			// aapt resource value: 0x7f07007f
-			public const int info = 2131165311;
+			// aapt resource value: 0x7f070083
+			public const int info = 2131165315;
 			
 			// aapt resource value: 0x7f070000
 			public const int item_touch_helper_previous_elevation = 2131165184;
@@ -3639,11 +3686,11 @@ namespace Droid
 			// aapt resource value: 0x7f070031
 			public const int left = 2131165233;
 			
-			// aapt resource value: 0x7f070079
-			public const int line1 = 2131165305;
-			
 			// aapt resource value: 0x7f07007d
-			public const int line3 = 2131165309;
+			public const int line1 = 2131165309;
+			
+			// aapt resource value: 0x7f070081
+			public const int line3 = 2131165313;
 			
 			// aapt resource value: 0x7f07000d
 			public const int listMode = 2131165197;
@@ -3651,8 +3698,11 @@ namespace Droid
 			// aapt resource value: 0x7f070043
 			public const int list_item = 2131165251;
 			
-			// aapt resource value: 0x7f070077
-			public const int media_actions = 2131165303;
+			// aapt resource value: 0x7f07006c
+			public const int main_frame = 2131165292;
+			
+			// aapt resource value: 0x7f07007b
+			public const int media_actions = 2131165307;
 			
 			// aapt resource value: 0x7f07001f
 			public const int middle = 2131165215;
@@ -3663,8 +3713,11 @@ namespace Droid
 			// aapt resource value: 0x7f070018
 			public const int multiply = 2131165208;
 			
-			// aapt resource value: 0x7f07006f
-			public const int navigation_header_container = 2131165295;
+			// aapt resource value: 0x7f07006e
+			public const int navigation_frame = 2131165294;
+			
+			// aapt resource value: 0x7f070073
+			public const int navigation_header_container = 2131165299;
 			
 			// aapt resource value: 0x7f070023
 			public const int never = 2131165219;
@@ -3759,11 +3812,11 @@ namespace Droid
 			// aapt resource value: 0x7f070015
 			public const int showTitle = 2131165205;
 			
-			// aapt resource value: 0x7f07006e
-			public const int snackbar_action = 2131165294;
+			// aapt resource value: 0x7f070072
+			public const int snackbar_action = 2131165298;
 			
-			// aapt resource value: 0x7f07006d
-			public const int snackbar_text = 2131165293;
+			// aapt resource value: 0x7f070071
+			public const int snackbar_text = 2131165297;
 			
 			// aapt resource value: 0x7f070029
 			public const int snap = 2131165225;
@@ -3786,8 +3839,8 @@ namespace Droid
 			// aapt resource value: 0x7f070033
 			public const int start = 2131165235;
 			
-			// aapt resource value: 0x7f070076
-			public const int status_bar_latest_event_content = 2131165302;
+			// aapt resource value: 0x7f07007a
+			public const int status_bar_latest_event_content = 2131165306;
 			
 			// aapt resource value: 0x7f070067
 			public const int submit_area = 2131165287;
@@ -3795,17 +3848,17 @@ namespace Droid
 			// aapt resource value: 0x7f07000f
 			public const int tabMode = 2131165199;
 			
-			// aapt resource value: 0x7f07007e
-			public const int text = 2131165310;
+			// aapt resource value: 0x7f070082
+			public const int text = 2131165314;
 			
-			// aapt resource value: 0x7f07007c
-			public const int text2 = 2131165308;
+			// aapt resource value: 0x7f070080
+			public const int text2 = 2131165312;
 			
 			// aapt resource value: 0x7f07004f
 			public const int textSpacerNoButtons = 2131165263;
 			
-			// aapt resource value: 0x7f07007a
-			public const int time = 2131165306;
+			// aapt resource value: 0x7f07007e
+			public const int time = 2131165310;
 			
 			// aapt resource value: 0x7f070045
 			public const int title = 2131165253;
@@ -3819,8 +3872,8 @@ namespace Droid
 			// aapt resource value: 0x7f070049
 			public const int topPanel = 2131165257;
 			
-			// aapt resource value: 0x7f07006b
-			public const int touch_outside = 2131165291;
+			// aapt resource value: 0x7f07006f
+			public const int touch_outside = 2131165295;
 			
 			// aapt resource value: 0x7f070009
 			public const int up = 2131165193;
@@ -3960,85 +4013,88 @@ namespace Droid
 			public const int abc_select_dialog_material = 2130968600;
 			
 			// aapt resource value: 0x7f040019
-			public const int design_bottom_sheet_dialog = 2130968601;
+			public const int activity_main = 2130968601;
 			
 			// aapt resource value: 0x7f04001a
-			public const int design_layout_snackbar = 2130968602;
+			public const int design_bottom_sheet_dialog = 2130968602;
 			
 			// aapt resource value: 0x7f04001b
-			public const int design_layout_snackbar_include = 2130968603;
+			public const int design_layout_snackbar = 2130968603;
 			
 			// aapt resource value: 0x7f04001c
-			public const int design_layout_tab_icon = 2130968604;
+			public const int design_layout_snackbar_include = 2130968604;
 			
 			// aapt resource value: 0x7f04001d
-			public const int design_layout_tab_text = 2130968605;
+			public const int design_layout_tab_icon = 2130968605;
 			
 			// aapt resource value: 0x7f04001e
-			public const int design_menu_item_action_area = 2130968606;
+			public const int design_layout_tab_text = 2130968606;
 			
 			// aapt resource value: 0x7f04001f
-			public const int design_navigation_item = 2130968607;
+			public const int design_menu_item_action_area = 2130968607;
 			
 			// aapt resource value: 0x7f040020
-			public const int design_navigation_item_header = 2130968608;
+			public const int design_navigation_item = 2130968608;
 			
 			// aapt resource value: 0x7f040021
-			public const int design_navigation_item_separator = 2130968609;
+			public const int design_navigation_item_header = 2130968609;
 			
 			// aapt resource value: 0x7f040022
-			public const int design_navigation_item_subheader = 2130968610;
+			public const int design_navigation_item_separator = 2130968610;
 			
 			// aapt resource value: 0x7f040023
-			public const int design_navigation_menu = 2130968611;
+			public const int design_navigation_item_subheader = 2130968611;
 			
 			// aapt resource value: 0x7f040024
-			public const int design_navigation_menu_item = 2130968612;
+			public const int design_navigation_menu = 2130968612;
 			
 			// aapt resource value: 0x7f040025
-			public const int FirstView = 2130968613;
+			public const int design_navigation_menu_item = 2130968613;
 			
 			// aapt resource value: 0x7f040026
-			public const int Main = 2130968614;
+			public const int FirstView = 2130968614;
 			
 			// aapt resource value: 0x7f040027
-			public const int notification_media_action = 2130968615;
+			public const int Main = 2130968615;
 			
 			// aapt resource value: 0x7f040028
-			public const int notification_media_cancel_action = 2130968616;
+			public const int notification_media_action = 2130968616;
 			
 			// aapt resource value: 0x7f040029
-			public const int notification_template_big_media = 2130968617;
+			public const int notification_media_cancel_action = 2130968617;
 			
 			// aapt resource value: 0x7f04002a
-			public const int notification_template_big_media_narrow = 2130968618;
+			public const int notification_template_big_media = 2130968618;
 			
 			// aapt resource value: 0x7f04002b
-			public const int notification_template_lines = 2130968619;
+			public const int notification_template_big_media_narrow = 2130968619;
 			
 			// aapt resource value: 0x7f04002c
-			public const int notification_template_media = 2130968620;
+			public const int notification_template_lines = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int notification_template_part_chronometer = 2130968621;
+			public const int notification_template_media = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int notification_template_part_time = 2130968622;
+			public const int notification_template_part_chronometer = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int select_dialog_item_material = 2130968623;
+			public const int notification_template_part_time = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int select_dialog_multichoice_material = 2130968624;
+			public const int select_dialog_item_material = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int select_dialog_singlechoice_material = 2130968625;
+			public const int select_dialog_multichoice_material = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int SplashScreen = 2130968626;
+			public const int select_dialog_singlechoice_material = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int support_simple_spinner_dropdown_item = 2130968627;
+			public const int SplashScreen = 2130968627;
+			
+			// aapt resource value: 0x7f040034
+			public const int support_simple_spinner_dropdown_item = 2130968628;
 			
 			static Layout()
 			{
@@ -4195,6 +4251,9 @@ namespace Droid
 			
 			// aapt resource value: 0x7f0a008d
 			public const int Base_Animation_AppCompat_DropDownUp = 2131361933;
+			
+			// aapt resource value: 0x7f0a0158
+			public const int Base_AppTheme = 2131362136;
 			
 			// aapt resource value: 0x7f0a008e
 			public const int Base_DialogWindowTitle_AppCompat = 2131361934;
@@ -6317,8 +6376,8 @@ namespace Droid
 			public const int MenuView_preserveIconSpacing = 7;
 			
 			public static int[] MvxBinding = new int[] {
-					2130772250,
-					2130772251};
+					2130772251,
+					2130772252};
 			
 			// aapt resource value: 0
 			public const int MvxBinding_MvxBind = 0;
@@ -6327,32 +6386,38 @@ namespace Droid
 			public const int MvxBinding_MvxLang = 1;
 			
 			public static int[] MvxControl = new int[] {
-					2130772252};
+					2130772253};
 			
 			// aapt resource value: 0
 			public const int MvxControl_MvxTemplate = 0;
 			
 			public static int[] MvxExpandableListView = new int[] {
-					2130772255};
+					2130772256};
 			
 			// aapt resource value: 0
 			public const int MvxExpandableListView_MvxGroupItemTemplate = 0;
 			
 			public static int[] MvxImageView = new int[] {
-					2130772256};
+					2130772257};
 			
 			// aapt resource value: 0
 			public const int MvxImageView_MvxSource = 0;
 			
 			public static int[] MvxListView = new int[] {
-					2130772253,
-					2130772254};
+					2130772254,
+					2130772255};
 			
 			// aapt resource value: 1
 			public const int MvxListView_MvxDropDownItemTemplate = 1;
 			
 			// aapt resource value: 0
 			public const int MvxListView_MvxItemTemplate = 0;
+			
+			public static int[] MvxRecyclerView = new int[] {
+					2130772250};
+			
+			// aapt resource value: 0
+			public const int MvxRecyclerView_MvxTemplateSelector = 0;
 			
 			public static int[] NavigationView = new int[] {
 					16842964,

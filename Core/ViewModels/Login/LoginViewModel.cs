@@ -1,4 +1,5 @@
-﻿using MvvmCross.Core.ViewModels;
+﻿using Core.Interfaces;
+using MvvmCross.Core.ViewModels;
 
 namespace Core.ViewModels
 {
