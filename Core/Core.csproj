@@ -40,6 +40,7 @@
     <Compile Include="ViewModels\Base\MainViewModel.cs" />
     <Compile Include="ViewModels\Menu\MenuViewModel.cs" />
     <Compile Include="Interfaces\IAuthenticationService.cs" />
+    <Compile Include="Constants.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Auth">
